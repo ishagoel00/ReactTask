@@ -1,0 +1,67 @@
+body {
+  margin:0;
+  padding:0;
+ }
+ .box {
+   padding: 0px 0px 0px;
+   border: 1px solid #dcdcdc;
+   background: #2f3039;
+   color: #9fa8b9;
+ 
+     border-top-left-radius: 27px;
+     border-top-right-radius: 27px;
+     /* border-bottom-right-radius: 27px;
+     border-bottom-left-radius: 27px; */
+ }
+ .hrline {
+   border-bottom: 2px solid #383842;
+   padding-bottom: 16px;
+ }
+ 
+ .middle-content {
+   padding: 32px 10px 10px 10px;
+ }
+
+ .middle-content >p {
+   cursor: pointer;
+ }
+ .split-para {
+   display: block;
+   font-size: 18px;
+   font-weight: 600;
+ }
+ .split-para span { display:block;float:right;}
+ .topimg img {
+   width: 23px;
+   height: 23px;
+ }
+ .topimg {
+   padding: 20px 28px;
+ }
+ p.text-center.title {
+   padding: 20px 0px;
+   font-weight: 700;
+   font-size: 18px;
+   color: #fff;
+ }
+ .top-content {
+   background: #f0ac6d;
+   height: 65px;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+ }
+ .middle img {
+   width: 90px;
+   height: 90px;
+   
+ }
+ .playingStatus {
+   color: #f0ac6d;
+   font-size: 12px;
+   font-weight: 800;
+   height: 2px;
+ }
+ .stationName {
+   font-size: 18px;
+   font-weight: 600;
+ }
